@@ -1,0 +1,16 @@
+F:\DOTNET\Iconabledemo\Iconabledemo\bin\Debug\net5.0\Iconabledemo.exe
+F:\DOTNET\Iconabledemo\Iconabledemo\bin\Debug\net5.0\Iconabledemo.deps.json
+F:\DOTNET\Iconabledemo\Iconabledemo\bin\Debug\net5.0\Iconabledemo.runtimeconfig.json
+F:\DOTNET\Iconabledemo\Iconabledemo\bin\Debug\net5.0\Iconabledemo.runtimeconfig.dev.json
+F:\DOTNET\Iconabledemo\Iconabledemo\bin\Debug\net5.0\Iconabledemo.dll
+F:\DOTNET\Iconabledemo\Iconabledemo\bin\Debug\net5.0\ref\Iconabledemo.dll
+F:\DOTNET\Iconabledemo\Iconabledemo\bin\Debug\net5.0\Iconabledemo.pdb
+F:\DOTNET\Iconabledemo\Iconabledemo\obj\Debug\net5.0\Iconabledemo.csproj.AssemblyReference.cache
+F:\DOTNET\Iconabledemo\Iconabledemo\obj\Debug\net5.0\Iconabledemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\DOTNET\Iconabledemo\Iconabledemo\obj\Debug\net5.0\Iconabledemo.AssemblyInfoInputs.cache
+F:\DOTNET\Iconabledemo\Iconabledemo\obj\Debug\net5.0\Iconabledemo.AssemblyInfo.cs
+F:\DOTNET\Iconabledemo\Iconabledemo\obj\Debug\net5.0\Iconabledemo.csproj.CoreCompileInputs.cache
+F:\DOTNET\Iconabledemo\Iconabledemo\obj\Debug\net5.0\Iconabledemo.dll
+F:\DOTNET\Iconabledemo\Iconabledemo\obj\Debug\net5.0\ref\Iconabledemo.dll
+F:\DOTNET\Iconabledemo\Iconabledemo\obj\Debug\net5.0\Iconabledemo.pdb
+F:\DOTNET\Iconabledemo\Iconabledemo\obj\Debug\net5.0\Iconabledemo.genruntimeconfig.cache
